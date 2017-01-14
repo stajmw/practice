@@ -7,6 +7,6 @@ print "Would you like to do another? (Y/N)"
 ans = raw_input('> ')
 
 if ans == 'y':
-    converttest.mstomin()
+    mstosec.mstomin()
 else:
     exit()
